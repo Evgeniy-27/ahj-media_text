@@ -1,3 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ipu05qlutels4p56?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-media-text)
+
+[GitHub Pages](https://evgeniy-27.github.io/ahj-media-text/)
+
+
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).
 
 Правила сдачи задания:
